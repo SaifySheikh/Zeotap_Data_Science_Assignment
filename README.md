@@ -43,8 +43,3 @@ This task involved segmenting customers using clustering techniques, combining b
 - DB Index: 1.2749
 - Cluster visualizations with distinct customer segments.
 
-Feel free to explore the notebooks, and if you have any questions or suggestions, don't hesitate to reach out!
-
----
-
-**Note**: Replace the placeholders like `[insert value here]` and update any example outputs with the actual results from your work.
